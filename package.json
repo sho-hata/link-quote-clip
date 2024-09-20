@@ -1,0 +1,18 @@
+{
+  "name": "link-quote-clip",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.2",
+    "@crxjs/vite-plugin": "^1.0.14",
+    "@types/chrome": "^0.0.271",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1"
+  }
+}
