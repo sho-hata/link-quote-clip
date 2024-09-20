@@ -13,9 +13,9 @@ const manifest = defineManifest({
 	},
 	action: {},
 	icons: {
-		16: "icons/icon16.png",
-		48: "icons/icon48.png",
-		128: "icons/icon128.png",
+		16: "images/icons/icon16.png",
+		48: "images/icons/icon48.png",
+		128: "images/icons/icon128.png",
 	},
 });
 
