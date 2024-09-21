@@ -1,5 +1,5 @@
 # link-quote-clip
- A Chrome extension that lets you copy selected text along with the URL in a citation-friendly format for easy quoting.
+A Chrome extension that lets you copy selected text along with the URL in a citation-friendly format for easy quoting.
 
 ## usage
 1. Select text on a webpage.

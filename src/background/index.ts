@@ -29,7 +29,7 @@ const executeCopySelectionWithLink = (
 						return;
 					}
 
-					const formattedText = `>${selectedText}\n\n${link}#:~:text=${encodeURIComponent(selectedText)}`;
+					const formattedText = `> ${selectedText}\n\n${link}#:~:text=${encodeURIComponent(selectedText)}`;
 
 					const input = document.createElement("textarea");
 					document.body.appendChild(input);
