@@ -12,5 +12,9 @@ jobs:
         with:
           node-version: 18
           cache: yarn
+      - name: Setup Biome
+        uses: biomejs/setup-biome@v2
+        with:
+          version: latest
       - run: yarn lint
       - run: yarn format
