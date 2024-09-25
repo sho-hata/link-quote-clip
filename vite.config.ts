@@ -6,7 +6,7 @@ const manifest = defineManifest({
 	description:
 		"A Chrome extension that lets you copy selected text along with the URL in a citation-friendly format for easy quoting.",
 	name: "link-quote-clip",
-	version: "0.1.0",
+	version: "0.1.1",
 	permissions: ["contextMenus", "scripting", "activeTab"],
 	background: {
 		service_worker: "src/background/index.ts",
