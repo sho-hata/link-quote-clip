@@ -11,7 +11,7 @@
     "format": "biome format"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.9.2",
+    "@biomejs/biome": "1.9.3",
     "@crxjs/vite-plugin": "^1.0.14",
     "@types/chrome": "^0.0.271",
     "typescript": "^5.5.3",
